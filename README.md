@@ -1,2 +1,3 @@
-# tlzcord
-A Light-weight Discord Client using neotralinojs
+# tlzcord 
+
+Made by [tuilazerotwo](https://tuilazerotwo.xyz)

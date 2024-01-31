@@ -1,0 +1,34 @@
+INFO 2024-01-31 12:14:54,057 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:14:56,408 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:16:43,878 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:16:45,419 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:18:05,405 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:18:08,343 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:21:55,448 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:22:00,306 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:24:17,419 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:24:20,830 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:24:36,219 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:24:38,448 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:25:29,862 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:25:32,119 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:27:24,074 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:27:26,685 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:29:30,077 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:29:32,792 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:31:04,247 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:31:09,638 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:32:28,415 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:32:32,662 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:32:35,509 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:32:58,910 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:33:03,502 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:33:12,667 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:34:53,223 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:35:07,654 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:37:37,161 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:37:39,151 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:37:51,441 Auth info was exported to ./.tmp/auth_info.json api\debug\debug.cpp:17 H@ADMIN-PC
+ERROR 2024-01-31 12:37:53,522 NE_RS_UNBLDRE: Unable to load application resource file /resources/favicon.ico api\debug\debug.cpp:20 H@ADMIN-PC
+INFO 2024-01-31 12:38:23,090 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
+INFO 2024-01-31 12:38:27,990 Reloading the application... api\debug\debug.cpp:17 H@ADMIN-PC
